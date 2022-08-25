@@ -7,11 +7,12 @@
 # Some Images From The App. - Uygulamadan Bazı Görüntüler.
 
 <p align="center">
-  <img src="https://i.hizliresim.com/oh6um61.JPG" width="250">
-  <img src="https://i.hizliresim.com/o8l5sqa.JPG" width="250">
-  <img src="https://i.hizliresim.com/6juy0q5.JPG" width="250">
-  <img src="https://i.hizliresim.com/9nnjng7.JPG" width="250">
+  <img src="https://i.hizliresim.com/oh6um61.JPG" width="350">
 </p>
+<p align="center"> <img src="https://i.hizliresim.com/o8l5sqa.JPG" width="350"></p>
+<p align="center"> <img src="https://i.hizliresim.com/9nnjng7.JPG" width="350"></p>
+<p align="center"> <img src="https://i.hizliresim.com/6juy0q5.JPG" width="350"></p>
+
 
 # Follow us on Social Media. - Bizi Sosyal Medya'da Takip Edin.
 * WebSite: Halilibrahimunlu.rf.gd
